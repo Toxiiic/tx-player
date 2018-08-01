@@ -58,8 +58,8 @@
             @click="togglePlaying"
             :class="{'fa-pause': playing, 'fa-play': !playing}"></span>
           <span class="fa fa-step-forward"></span>
-          <span class="fa fa-random"
-            :class="[seqModeClass]"
+          <span class="fa"
+            :class="'fa-'+this.seqMode"
             @click="toggleSeqMode"></span>
         </div>
       </div>
@@ -98,6 +98,12 @@ import LyricPanel from './LyricPanel'
 import axios from 'axios'
 import {getLyricBySongId} from '../api/api'
 
+const SeqMode = {
+  Single: 'repeat',
+  Sequently: 'sort-amount-desc',
+  Randomly: 'random'
+}
+
 export default {
   name: 'player',
   data () {
@@ -108,7 +114,7 @@ export default {
       showingLyric: false,
       isCurSongFavFake: false,
       showingCurList: false,
-      seqModeClass: ''
+      seqMode: SeqMode.Single
     }
   },
   components: {
@@ -132,7 +138,9 @@ export default {
       this.showingCurList = !this.showingCurList
     },
     toggleSeqMode () {
-      this.seqModeClass = 
+      //找到当前播放模式下标，+1后取余长度就是新的
+      let curModeIndex = Object.values(SeqMode).indexOf(this.seqMode)
+      this.seqMode = Object.values(SeqMode)[(curModeIndex + 1) % Object.keys(SeqMode).length]
     },
     onTimeUpdate () {
       this.currentTime = this.$refs.audio.currentTime
