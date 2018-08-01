@@ -1,0 +1,1100 @@
+{
+    "songs": [
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5061320,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 5849027,
+            "no": 1,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 210817,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 8435505,
+                "vd": -2.0
+            },
+            "pop": 100.0,
+            "v": 16,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3374228,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "Bad Boy",
+            "id": 533455456,
+            "privilege": {
+                "id": 533455456,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p3.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5500177,
+                "vd": -3.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 2,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 229097,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 9166933,
+                "vd": -3.0
+            },
+            "pop": 85.0,
+            "v": 14,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3666799,
+                "vd": -3.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "All Right",
+            "id": 533455457,
+            "privilege": {
+                "id": 533455457,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 4539080,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 5849028,
+            "no": 3,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 189049,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 7565105,
+                "vd": -3.0
+            },
+            "pop": 85.0,
+            "v": 15,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3026068,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "피카부 (Peek-A-Boo)",
+            "id": 533455458,
+            "tns": [
+                "躲猫猫"
+            ],
+            "privilege": {
+                "id": 533455458,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5895776,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 4,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 245598,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 9826264,
+                "vd": -2.0
+            },
+            "pop": 70.0,
+            "v": 14,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3930532,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "봐 (Look)",
+            "id": 533455459,
+            "tns": [
+                "看看"
+            ],
+            "privilege": {
+                "id": 533455459,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p3.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 4520899,
+                "vd": -3.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 5851027,
+            "no": 5,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 188304,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 7534803,
+                "vd": -4.0
+            },
+            "pop": 75.0,
+            "v": 14,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3013947,
+                "vd": -3.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "I Just",
+            "id": 533455460,
+            "privilege": {
+                "id": 533455460,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5045647,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 6,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 210162,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 8409382,
+                "vd": -3.0
+            },
+            "pop": 65.0,
+            "v": 12,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3363779,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "Kingdom Come",
+            "id": 533455461,
+            "privilege": {
+                "id": 533455461,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 4687665,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 7,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 195248,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 7812746,
+                "vd": -3.0
+            },
+            "pop": 80.0,
+            "v": 12,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3125124,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "Time To Love",
+            "id": 533455462,
+            "privilege": {
+                "id": 533455462,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 4671991,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 8,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 194591,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 7786623,
+                "vd": -2.0
+            },
+            "pop": 80.0,
+            "v": 13,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3114675,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "두번째 데이트 (My Second Date)",
+            "id": 533455463,
+            "tns": [
+                "第二次约会"
+            ],
+            "privilege": {
+                "id": 533455463,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 4725908,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 9,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 196836,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 7876485,
+                "vd": -2.0
+            },
+            "pop": 50.0,
+            "v": 12,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3150620,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "Attaboy",
+            "id": 533455464,
+            "privilege": {
+                "id": 533455464,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5036243,
+                "vd": -1.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 10,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 209778,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 8393709,
+                "vd": -2.0
+            },
+            "pop": 75.0,
+            "v": 12,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3357510,
+                "vd": -1.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "Perfect 10",
+            "id": 533455465,
+            "privilege": {
+                "id": 533455465,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p3.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 4944710,
+                "vd": -3.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 11,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 205974,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 8241154,
+                "vd": -3.0
+            },
+            "pop": 70.0,
+            "v": 12,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3296488,
+                "vd": -3.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "About Love",
+            "id": 533455466,
+            "privilege": {
+                "id": 533455466,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        },
+        {
+            "rtUrls": [],
+            "ar": [
+                {
+                    "id": 976157,
+                    "name": "Red Velvet",
+                    "tns": [
+                        "레드벨벳"
+                    ],
+                    "alia": [
+                        "红色天鹅绒"
+                    ]
+                }
+            ],
+            "al": {
+                "id": 37391373,
+                "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "picUrl": "http://p3.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+                "pic_str": "109951163123361762",
+                "pic": 109951163123361762
+            },
+            "st": 1,
+            "a": null,
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5296422,
+                "vd": -2.0
+            },
+            "cd": "1",
+            "fee": 8,
+            "mv": 0,
+            "no": 12,
+            "crbt": null,
+            "rtUrl": null,
+            "mst": 9,
+            "cf": "",
+            "pst": 0,
+            "alia": [],
+            "rt": null,
+            "dt": 220607,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 8827342,
+                "vd": -2.0
+            },
+            "pop": 70.0,
+            "v": 13,
+            "cp": 685010,
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3530963,
+                "vd": -2.0
+            },
+            "djId": 0,
+            "ftype": 0,
+            "rtype": 0,
+            "rurl": null,
+            "t": 0,
+            "name": "달빛소리 (Moonlight Melody)",
+            "id": 533455467,
+            "tns": [
+                "月光声"
+            ],
+            "privilege": {
+                "id": 533455467,
+                "fee": 8,
+                "payed": 0,
+                "st": 0,
+                "pl": 128000,
+                "dl": 0,
+                "sp": 7,
+                "cp": 1,
+                "subp": 1,
+                "cs": false,
+                "maxbr": 999000,
+                "fl": 128000,
+                "toast": false,
+                "flag": 0,
+                "preSell": false
+            }
+        }
+    ],
+    "code": 200,
+    "album": {
+        "songs": [],
+        "paid": false,
+        "onSale": false,
+        "status": -1,
+        "copyrightId": 0,
+        "artists": [
+            {
+                "img1v1Id": 18686200114669622,
+                "topicPerson": 0,
+                "briefDesc": "",
+                "picId": 0,
+                "musicSize": 0,
+                "trans": "",
+                "albumSize": 0,
+                "img1v1Url": "http://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg",
+                "alias": [],
+                "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                "name": "Red Velvet",
+                "id": 976157,
+                "img1v1Id_str": "18686200114669622"
+            }
+        ],
+        "briefDesc": "",
+        "picId": 109951163123361762,
+        "artist": {
+            "img1v1Id": 18686200114669622,
+            "topicPerson": 0,
+            "briefDesc": "",
+            "picId": 109951163124517093,
+            "musicSize": 96,
+            "trans": "레드벨벳",
+            "albumSize": 16,
+            "img1v1Url": "http://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg",
+            "alias": [
+                "红色天鹅绒"
+            ],
+            "picUrl": "http://p3.music.126.net/g47LcrNXtAq1rzrd7PR4uw==/109951163124517093.jpg",
+            "name": "Red Velvet",
+            "id": 976157,
+            "picId_str": "109951163124517093",
+            "transNames": [
+                "레드벨벳"
+            ],
+            "img1v1Id_str": "18686200114669622"
+        },
+        "publishTime": 1517155200000,
+        "company": "SM ENTERTAINMENT",
+        "tags": "",
+        "description": "“Perfect Hit女子组合”Red Velvet回归了！\n正规二辑Repackage《The Perfect Red Velvet》将在1月29日发售！\n主打曲《Bad Boy》延续大热势头\n\n“Perfect Hit女子组合”Red Velvet(SM ENTERTAINMENT所属)将在1月29日发表正规二辑Repackage《The Perfect Red Velvet》。\n\n正规二辑Repackage《The Perfect Red Velvet》在已发表的正规二辑的9首收录曲上新追加收录了3首新歌，共由12首歌曲构成，将再次通过Red Velvet丰富的音乐色彩渲染歌坛。\n\nRed Velvet在去年发表的《Rookie》、《红色味道 (Red Flavor)》和《躲猫猫 (Peek-A-Boo)》创造了三联大热记录，表现非常活跃。在“2017 Soribada Best K-Music Awards”获得本赏及新韩流Icon奖，“2017 Mnet Asian Music Awards”获得最佳女子组合奖，“2017 Melon Music Awards”获得TOP 10奖，“2018 Golden Disk”获得音源部门本赏等，得到了大众的支持和喜爱。Red Velvet即将展现的全新音乐及舞台让人无比期待。\n\n另外，去年11月发表的Red Velvet正规二辑《Perfect Velvet》在韩国音源及实体专辑排行榜获得首位的同时，也横扫了iTunes K-POP专辑排行榜13个地区1位，中国虾米音乐榜1位。除此以外也在Billboard 全球专辑排行榜荣获1位，成为首个连续4次登上1位的K-POP女子组合，以及获得最多次1位的K-POP歌手。因此，本次专辑必定会赢得全球音乐粉丝们热烈反响。\n\n主打歌《Bad Boy》是一首以嘻哈为基础的R&B舞曲，节奏感十足的合成声旋律与稳重的贝斯声响加倍了歌曲的中毒性。歌词描写了像磁石一样相互吸引的“Bad Boy”和高冷的女生之间游走在危险边缘的感情，受人瞩目。\n\n此外，包括传达了“与在身边的重要的人一起坚强地迎接振奋人心的明天”应援信息的迪斯科风Up Tempo Pop舞曲《All Right》；突显刚要开始恋爱的恋人的心动之情的中速R&B抒情曲《Time To Love》在内，共追加收录了3首全新歌曲，足以能够让大家可以欣赏更深一层的Red Vevlet音乐色彩。\n\nAlbum Review\n\n\n01. Bad Boy\nKorean Lyrics by JQ / 문희연\nComposed by The Stereotypes / Maxx Song / Whitney Phillips / Yoo, Young Jin\nArranged by The Stereotypes\n\n主打歌《Bad Boy》是一首以嘻哈为基础的R&B舞曲，节奏感十足的合成声旋律与稳重的贝斯声响加倍了歌曲的中毒性。歌词描写了像磁石一样相互吸引的“Bad Boy”和高冷的女生之间游走在危险边缘的感情。因高冷的女生登场而发出的高跟鞋声，看着这场景发出的男生们的欢呼声，为了抓走“Bad Boy”而出动的警车声等，让人联想起该场面的副歌中的效果音加倍了欣赏歌曲的趣味。\n\n02. All Right\nKorean Lyrics by 이스란 (Jam Factory)\nComposed by Kevin Charge / Phoebus Tassopoulos / Jessica Jean Pfeiffer\nArranged by Kevin Charge\n\n《All Right》是一首迪斯科风Up Tempo Pop舞曲。在歌曲前半部节奏爽快蹦发的合成声添加了歌曲的复古氛围。歌词描写了“不要为乏味的烦恼而浪费时间，与身边重要的人一起坚强的迎接振奋人心的明天”的应援信息。\n​​\n03. 피카부 (Peek-A-Boo)\nKorean Lyrics by Kenzie\nComposed by Moonshine / Cazzi Opeia / Ellen Berg\nArranged by Moonshine\n\n主打歌《躲猫猫 (Peek-A-Boo)》 以意味“嘎宮（可爱的吓人表情象声词）”的“躲猫猫”为Hook歌词，强有中毒性的Up Tempo Pop舞曲。歌词把拥有酷酷的恋爱方式的现代年轻人的生活方式比喻成在游乐园玩耍的样子，因心的恋情而感受到的惊心动魄通过创意十足的歌词展现出来，受人瞩目。\n\n04. 봐 (Look)\nLyrics by SUMIN / JINBO\nComposed by Daniel “Obi” Klein / Charli Taft / JINBO / SUMIN\nArranged by Daniel “Obi“ Klein\n\n《看看 (Look)》是一首抓耳的朋克合成声Disco风舞曲。充满希望的歌词描述了放下心里的忧虑，跟随自己的心将会看到梦想的世界展开在眼前的内容。简单的旋律，丰富的和声和Red Velvet柔和的歌声完美相融，加倍了歌曲魅力。\n\n05. I Just\nLyrics by 김부민\nComposed by Hitchhiker / 김부민 / Aventurina King / John Fulford\nArranged by Hitchhiker\n\n身为世界EDM音乐人兼DJ展现广泛音乐范围的Hitchhiker与Red Velvet合作诞生的《I Just》是一首凸显独特合成声响的Future Bass基调电子Pop歌曲。犹如发出空虚的叹气声，简单又抓耳的Hook为歌曲特征。歌曲描述了心爱的人离开后，独自一人反复回想离别的心境，通过平淡的演唱加倍了歌曲寂寞的氛围。\n\n06. Kingdom Come\nKorean Lyrics by 이스란 (Jam Factory)\nComposed by The Stereotypes / DEEZ / Ylva Dimberg\nArranged by The Stereotypes\n\n《Kingdom Come》是一首Acoustic敲鼓声为基础的LOOP和丰富的和声旋律非常特别，演绎出梦幻氛围的R&B歌曲。歌曲描述陷入爱情的瞬间犹如来到天堂一般，到世界尽头也要爱下去的歌词，让人印象深刻。哀切的旋律和与之十分相配的华丽的转音技巧，展现出Red Velvet突出的歌唱实力。\n\n07. Time To Love\nKorean Lyrics by 강은정\nComposed by Ellen Berg / 밍지션 / 이동훈\nArranged by 밍지션\n\n《Time To Love》是一首Acoustic钢琴与温和的合成声结合而成的中速R&B抒情曲。描写刚要开始恋爱的恋人的心动之情的歌词、丰富的和声以及Red Velvet感性又惹人喜爱的歌声完美相融，加倍了歌曲的魅力。\n\n08. 두 번째 데이트 (My Second Date)\nKorean Lyrics by 전간디\nComposed by James Wong / Sidnie Tipton / Sophie Stern\nArranged by Gladius\n\n《第二次约会（My Second Date）》是一首明朗的旋律和中速的钢琴演奏转换为Hiphop感觉的伴奏氛围，这样的反转感觉非常突出的中速流行舞曲。歌词里把第二次约会之前悸动的心情，将见到对方前开始到结束约会的瞬间为止不停地苦恼，在爱情面前不知如何是好的可爱模样生动的表达了出来。\n\n09. Attaboy\nLyrics by Kenzie\nComposed by Kenzie / The Stereotypes / Ylva Dimberg\nArranged by The Stereotypes\n\n这是一首以808贝斯为基调的嘻哈声响歌曲。爽快的Hook旋律特有魅力，反映出混乱的现代年轻人心境的歌词，描写了当你站在选择的分岔路上时，不要犹豫，勇敢地做出自己最想要前进的方向的信息。\n\n10. Perfect 10\nKorean Lyrics by 조윤경\nComposed by Daniel “Obi” Klein / Charli Taft / DEEZ\nArranged by Daniel “Obi” Klein\nAdditional Arranged by DEEZ\n\n《Perfect 10》是一首以808敲鼓为基础的Trap节奏和Groovy的打击乐器、贝斯、梦幻又悠懒的歌声完美相融的Urban R&B歌曲。歌词描述了把心爱的人当做只属于自己的拍摄对象，把拍摄的过程融入了歌词。表现出在所有的感觉集中于对方的瞬间，一切都会感到十分完美的感情，让歌曲更加心动。\n\n11. About Love\nKorean Lyrics by 1월 8일 (Jam Factory)\nComposed by RE:ONE / Davey Nate\nArranged by RE:ONE\n\n《About Love》是一首通过温暖的EP声和节奏感十足的吉他旋律让人愉悦的中速Urban Pop风格歌曲。描述了通过想起一个人，领悟到爱的过程，Red Velvet以惹人喜爱的歌声演唱出无法隐藏的心动之情。\n\n\n12. 달빛 소리 (Moonlight Melody)\nLyrics by 이주형 (MonoTree)\nComposed by 이주형 (MonoTree) / 권덕근\nArranged by 권덕근\n\n犹如描述夜晚天空的细腻的钢琴旋律，以感性十足的弦乐器刺激感性细胞的Acoustic抒情曲《月光声 (Moonlight Melody)》，描述了回忆在月光下一起度过的瞬间，以青涩的感性表现出对过去的爱的怀念之情。",
+        "subType": "录音室版",
+        "blurPicUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+        "companyId": 0,
+        "pic": 109951163123361762,
+        "commentThreadId": "R_AL_3_37391373",
+        "alias": [],
+        "picUrl": "http://p4.music.126.net/mdZHwuD8wRn427gQvdVpBg==/109951163123361762.jpg",
+        "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+        "id": 37391373,
+        "type": "专辑",
+        "size": 12,
+        "picId_str": "109951163123361762",
+        "info": {
+            "commentThread": {
+                "id": "R_AL_3_37391373",
+                "resourceInfo": {
+                    "id": 37391373,
+                    "userId": -1,
+                    "name": "The Perfect Red Velvet – The 2nd Album Repackage",
+                    "imgUrl": null,
+                    "creator": null
+                },
+                "resourceType": 3,
+                "commentCount": 145,
+                "likedCount": 1,
+                "shareCount": 72,
+                "hotCount": 3,
+                "latestLikedUsers": [
+                    {
+                        "s": 48955869,
+                        "t": 1523241479156
+                    }
+                ],
+                "resourceOwnerId": -1,
+                "resourceTitle": "The Perfect Red Velvet – The 2nd Album Repackage",
+                "resourceId": 37391373
+            },
+            "latestLikedUsers": [
+                {
+                    "locationInfo": null,
+                    "avatarUrl": "http://p1.music.126.net/X6-D2aDupI22QUmX0-QE8A==/1366692960504700.jpg",
+                    "userId": 48955869,
+                    "nickname": "NewheartbeaT",
+                    "authStatus": 0,
+                    "expertTags": null,
+                    "userType": 0,
+                    "remarkName": null,
+                    "vipType": 10,
+                    "experts": null
+                }
+            ],
+            "liked": false,
+            "comments": null,
+            "resourceType": 3,
+            "resourceId": 37391373,
+            "threadId": "R_AL_3_37391373",
+            "commentCount": 145,
+            "likedCount": 1,
+            "shareCount": 72
+        }
+    }
+}
