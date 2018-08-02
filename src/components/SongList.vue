@@ -1,6 +1,9 @@
 <template>
     <ul class="song-list">
-        <li v-for="(song, index) in songs" :key="index" @click="clickSongListItem(song)">
+        <li v-for="(song, index) in songs"
+            :key="index"
+            @click="clickSongListItem(song)"
+            :class="{active: song.id == curSong.id}">
             <img class="song-cover"
                 v-show="song.picUrl!=undefined && showCover"
                 :src="song.picUrl"
@@ -34,7 +37,8 @@ export default {
     computed: {
         ...mapGetters([
             'playedSongs',
-            'defaultSongs'
+            'defaultSongs',
+            'curSong'
         ])
     },
     methods: {
@@ -69,3 +73,11 @@ export default {
     }
 }
 </script>
+
+<style lang="scss">
+    @import "@/common/common.scss";
+    
+    li.active {
+        color: $color-active;
+    }
+</style>
