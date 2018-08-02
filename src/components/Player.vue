@@ -75,8 +75,15 @@
             <div class="name">{{curSong.name}}</div>
             <div class="artist">{{curSong.artists[0].name}}</div>
           </div>
-          <div>
-
+          <div class="controllers" @click.stop>
+            <span class="fav-btn fa"
+              @click="onClickToggleCurSongFav"
+              :class="{'fa-heart-o': !isCurSongFavFake, 'fa-heart': isCurSongFavFake}"></span>
+            <span class="fa fa-play"
+              @click="togglePlaying"
+              :class="{'fa-pause': playing, 'fa-play': !playing}"></span>
+            <span class="fa fa-step-forward"
+              @click="onClickPlayNext"></span>
           </div>
       </div>
     </transition>
@@ -365,14 +372,24 @@ export default {
     }
     .detail {
       padding: 0 10px;
-      vertical-align: middle;
-      display: inline-block;
+    vertical-align: middle;
+    display: inline-block;
+    width: 40%;
 
       .name {
         font-weight: bold;
       }
       .artist {
 
+      }
+    }
+    .controllers {
+      width: 35%;
+    display: inline-block;
+    vertical-align: middle;
+      .fa {
+        font-size: 21px;
+    padding: 0 15px;
       }
     }
 }

@@ -3,7 +3,7 @@
         <li v-for="(song, index) in songs"
             :key="index"
             @click="clickSongListItem(song)"
-            :class="{active: song.id == curSong.id}">
+            :class="itemActiveClass(song)">
             <img class="song-cover"
                 v-show="song.picUrl!=undefined && showCover"
                 :src="song.picUrl"
@@ -39,7 +39,7 @@ export default {
             'playedSongs',
             'defaultSongs',
             'curSong'
-        ])
+        ]),
     },
     methods: {
         clickSongListItem (song) {
@@ -67,6 +67,12 @@ export default {
                 
             })
         },
+        itemActiveClass (song) {
+            if(this.curSong != undefined) {
+                return {active: song.id == this.curSong.id}
+            }
+            return ''
+        },
         ...mapActions([
             'playSong'
         ])
@@ -76,7 +82,7 @@ export default {
 
 <style lang="scss">
     @import "@/common/common.scss";
-    
+
     li.active {
         color: $color-active;
     }
