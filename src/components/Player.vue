@@ -53,11 +53,13 @@
         <div class="contollers">
           <span class="fa fa-list-ol"
             @click="toggleCurList"></span>
-          <span class="fa fa-step-backward"></span>
+          <span class="fa fa-step-backward"
+            @click="onClickPlayPrev"></span>
           <span class="fa fa-play"
             @click="togglePlaying"
             :class="{'fa-pause': playing, 'fa-play': !playing}"></span>
-          <span class="fa fa-step-forward"></span>
+          <span class="fa fa-step-forward"
+            @click="onClickPlayNext"></span>
           <span class="fa"
             :class="'fa-'+this.seqMode"
             @click="toggleSeqMode"></span>
@@ -103,6 +105,11 @@ const SeqMode = {
   Sequently: 'sort-amount-desc',
   Randomly: 'random'
 }
+const SongInList = {
+  Next: 0,
+  Prev: 1,
+  Random: 2
+}
 
 export default {
   name: 'player',
@@ -142,13 +149,48 @@ export default {
       let curModeIndex = Object.values(SeqMode).indexOf(this.seqMode)
       this.seqMode = Object.values(SeqMode)[(curModeIndex + 1) % Object.keys(SeqMode).length]
     },
+    playSongInList (songInList) {
+      let newIndex = -1
+      switch (songInList) {
+        case SongInList.Next:
+          newIndex = (this.curIndex + 1) % this.curList.length
+          break
+        case SongInList.Prev:
+          newIndex = (this.curIndex - 1) % this.curList.length
+          break
+        case SongInList.Random:
+          newIndex = parseInt(Math.random() * this.curList.length)
+          break
+      }
+      this.playSong({
+        song: this.curList[newIndex],
+        list: this.curList
+      })
+    },
     onTimeUpdate () {
       this.currentTime = this.$refs.audio.currentTime
+      //播放结束：根据播放模式来看下一步做什么
+      if(this.$refs.audio.ended) {
+        switch (this.seqMode) {
+          //单曲循环：重新播放
+          case SeqMode.Single:
+            this.$refs.audio.play()
+            break
+          //顺序播放：播放当前列表中的下一首
+          case SeqMode.Sequently:
+            this.playSongInList(SongInList.Next)
+            break
+          //随机播放：在列表中随机找出一首播放
+          case SeqMode.Randomly:
+            this.playSongInList(SongInList.Random)
+            break
+        }
+      }
       //如果已经结束了，但是并没有暂停，那就调用audio播放，否则不会播放
       //但也会导致最终停止时自动开始play
-      if(this.$refs.audio.ended && this.playing) {
-        this.$refs.audio.play()
-      }
+      // if(this.$refs.audio.ended && this.playing) {
+      //   this.$refs.audio.play()
+      // }
     },
     onTimeChange (newTime) {
       this.$refs.audio.currentTime = newTime
@@ -161,6 +203,12 @@ export default {
       //收藏假象
       this.isCurSongFavFake = ! this.isCurSongFavFake
     },
+    onClickPlayPrev () {
+      this.playSongInList(SongInList.Prev)
+    },
+    onClickPlayNext () {
+      this.playSongInList(SongInList.Next)
+    },
     parseSecond (lrcTime) {
         return lrcTime.substr(0, 2) * 60
             + lrcTime.substr(3, 2) * 1
@@ -168,11 +216,13 @@ export default {
     },
     ...mapMutations ([
       'setCurSong',
-      'setFullscreen'
+      'setFullscreen',
+      'setCurIndex'
     ]),
     ...mapActions ([
       'togglePlaying',
-      'toggleCurSongFav'
+      'toggleCurSongFav',
+      'playSong'
     ])
   },
   watch: {

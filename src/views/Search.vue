@@ -2,7 +2,7 @@
     <transition name="slide-l">
 
     <div class="search-view">
-        <div>
+        <div style="text-align:left">
             <span @click="goBack" class="fa fa-angle-left go-back-btn"></span>
             <input class="search-input" type="text" v-model="queryStr">
         </div>
@@ -81,39 +81,6 @@ export default {
         ])
     },
     methods: {
-        // playSong (song) {
-        //     // this.$router.push('/player')
-
-        //     axios.get('http://localhost:3000/music/url?id=' + song.id).then(res => {
-        //         let url = res.data.data[0].url
-
-        //         axios.get('http://localhost:3000/album?id=' + song.album.id).then(res => {
-        //             let picUrl = res.data.album.picUrl
-
-        //             let curSong = {
-        //                 url,
-        //                 picUrl,
-        //                 id: song.id,
-        //                 name: song.name,
-        //                 album: song.album,
-        //                 artists: song.artists
-        //             }
-
-        //             this.addPlayedSong(curSong)
-        //             this.setPlaying(true)
-
-        //             // this.setCurSong(curSong)
-        //             this.setCurIndexAndList({
-        //                 list: this.playedSongs,
-        //                 index: 0
-        //             });
-
-        //             this.setFullscreen(true);
-        //         })
-                
-        //     })
-
-        // },
         viewSinger () {
             // this.$router.push()
         },

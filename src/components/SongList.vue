@@ -39,7 +39,7 @@ export default {
     },
     methods: {
         clickSongListItem (song) {
-
+            
             getMusicUrlById(song.id).then(res => {
                 let url = res.data.data[0].url
 
