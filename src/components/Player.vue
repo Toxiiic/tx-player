@@ -98,7 +98,7 @@ import ProgressController from './ProgressController'
 import SongList from './SongList'
 import LyricPanel from './LyricPanel'
 import axios from 'axios'
-import {getLyricBySongId} from '../api/api'
+import {getLyricBySongId} from '../common/api'
 
 const SeqMode = {
   Single: 'repeat',

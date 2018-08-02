@@ -102,6 +102,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import "@/common/common.scss";
+
 .search-view {
     position: absolute;
     top: 0;
@@ -133,13 +135,12 @@ export default {
         padding: 8px 14px;
     }
 
-
     .result-title {
         padding: 8px 20px;
         font-size: 12px;
         font-weight: bold;
         margin-top: 15px;
-        color: #0083ff;
+        color: $color-active;
     }
     .result-singer {
         padding-left: 20px;
@@ -150,7 +151,7 @@ export default {
         }
         .name {
             display: inline-block;
-            color: #2c3e50;
+            color: $color-dark;
             font-weight: bold;
             padding-left: 20px;
             vertical-align: middle;

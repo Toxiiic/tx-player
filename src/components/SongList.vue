@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { getMusicUrlById, getAlbumById } from '../api/api'
+import { getMusicUrlById, getAlbumById } from '../common/api'
 import { mapActions, mapGetters } from 'vuex';
 
 export default {
